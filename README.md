@@ -4,7 +4,7 @@ Repository for our VLDB'25 paper **[Chameleon: A Heterogeneous and Disaggregated
 
 Chameleon is a heterogeneous accelerator system for RAG serving. It prototypes FPGA-based accelerators for retrieval and GPU-based LLM inference.
 
-## 🎓 Citing RAGO
+## 🎓 Citing Chameleon
 
 ```
 @article{jiang2023chameleon,
