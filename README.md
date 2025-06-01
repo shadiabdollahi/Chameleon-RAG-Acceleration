@@ -13,6 +13,14 @@ Chameleon is a heterogeneous accelerator system for RAG serving. It prototypes F
   journal={Proceedings of the VLDB Endowment},
   year={2025}
 }
+
+@inproceedings{jiang2023co,
+  title={Co-design hardware and algorithm for vector search},
+  author={Jiang, Wenqi and Li, Shigang and Zhu, Yu and de Fine Licht, Johannes and He, Zhenhao and Shi, Runbin and Renggli, Cedric and Zhang, Shuai and Rekatsinas, Theodoros and Hoefler, Torsten and others},
+  booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+  pages={1--15},
+  year={2023}
+}
 ```
 
 ## Related Projects
